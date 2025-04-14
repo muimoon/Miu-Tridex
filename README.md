@@ -1,10 +1,4 @@
-# KFT
-I have conditions to test KMS and FPFS.
-At the same time, Tridex is also in progress.
-So, why not make them together?!
-
----
----
+#
 
 
 ## Tridex
