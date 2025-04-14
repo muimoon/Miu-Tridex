@@ -12,3 +12,7 @@
 ## Double-TAP-for-Tridex
 *check the url to get the print files*
 >https://github.com/joseph-greiner/Double-TAP-for-Tridex
+
+## Nudge
+*check the Nudge from this:*
+>https://github.com/viesturz/klipper-toolchanger
